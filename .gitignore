@@ -1,0 +1,12 @@
+node_modules/
+orgchart.db
+sessions.db
+logs/
+orgchart-repo.zip
+ecosystem_config.js
+import-employees.js
+manage-users.js
+data.json
+.claude/
+*.db-shm
+*.db-wal
